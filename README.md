@@ -64,8 +64,11 @@ WeatherScope is designed to work across different screen sizes, including:
 * Tablet
 * Mobile devices
 
-## Project Purpose
 
+## Live demo link
+https://parasqureshi13.github.io/Internify_task4/
+
+## Project Purpose
 This project was developed as part of an internship task to demonstrate practical knowledge of API integration, asynchronous JavaScript, dynamic DOM manipulation, error handling, browser storage, animations, and responsive web design.
 
 ## Author
